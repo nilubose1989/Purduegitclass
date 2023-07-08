@@ -1,4 +1,2 @@
-CThis is the modified version of file
-C
-C
+These changes are from remote repository 
 
